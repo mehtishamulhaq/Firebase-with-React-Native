@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388716299978",
+    "project_id": "firbase-with-react-native",
+    "storage_bucket": "firbase-with-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388716299978:android:516e36588a54ebfcadd633",
+        "android_client_info": {
+          "package_name": "com.firebasewithreactnative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388716299978-o7rp9oifldlj3tsa6nv82ilngrg4udc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApLu5QIOzIwbwISnZieZGnvs_D1QOQg1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388716299978-o7rp9oifldlj3tsa6nv82ilngrg4udc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

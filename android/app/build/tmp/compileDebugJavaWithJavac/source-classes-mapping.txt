@@ -1,0 +1,14 @@
+com/firebasewithreactnative/ReactNativeFlipper.java
+ com.firebasewithreactnative.ReactNativeFlipper
+ com.firebasewithreactnative.ReactNativeFlipper$1
+ com.firebasewithreactnative.ReactNativeFlipper$2
+ com.firebasewithreactnative.ReactNativeFlipper$2$1
+com/firebasewithreactnative/BuildConfig.java
+ com.firebasewithreactnative.BuildConfig
+com/firebasewithreactnative/MainActivity.java
+ com.firebasewithreactnative.MainActivity
+com/firebasewithreactnative/MainApplication.java
+ com.firebasewithreactnative.MainApplication
+ com.firebasewithreactnative.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
