@@ -1,10 +1,13 @@
-import React, { useEffect } from 'react';
-import MainScreen from './src/components/MainScreen'
+import React from 'react';
+import MainScreen from './src/screens/MainScreen';
+import { NativeBaseProvider } from 'native-base';
+import MainStackNavigation from './src/components/StackNavigation';
 
 function App() {
-
   return (
-    <MainScreen />
+    <NativeBaseProvider>
+      <MainStackNavigation />
+    </NativeBaseProvider>
   )
 }
 
